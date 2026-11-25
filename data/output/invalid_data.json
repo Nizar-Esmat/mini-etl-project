@@ -1,0 +1,145 @@
+[
+    {
+        "row": {
+            "transaction_id": "TXN-1004",
+            "date": "2026-02-30",
+            "customer_id": "CUST-004",
+            "category": "Clothing",
+            "amount": "120.00",
+            "status": "Completed"
+        },
+        "errors": [
+            "Invalid date format"
+        ]
+    },
+    {
+        "row": {
+            "transaction_id": "TXN-1005",
+            "date": "2026-10-05",
+            "customer_id": "CUST-005",
+            "category": "Utilities",
+            "amount": "-65.00",
+            "status": "Completed"
+        },
+        "errors": [
+            "Invalid amount"
+        ]
+    },
+    {
+        "row": {
+            "transaction_id": "TXN-1007",
+            "date": "10/07/2026",
+            "customer_id": "CUST-007",
+            "category": "Groceries",
+            "amount": "58.20",
+            "status": "Completed"
+        },
+        "errors": [
+            "Invalid date format"
+        ]
+    },
+    {
+        "row": {
+            "transaction_id": "TXN-1008",
+            "date": "2026-10-08",
+            "customer_id": "",
+            "category": "Electronics",
+            "amount": "249.00",
+            "status": "Completed"
+        },
+        "errors": [
+            "customer_id is empty"
+        ]
+    },
+    {
+        "row": {
+            "transaction_id": "TXN-1013",
+            "date": "2026-10-13",
+            "customer_id": "CUST-011",
+            "category": "Groceries",
+            "amount": "forty-five",
+            "status": "Completed"
+        },
+        "errors": [
+            "Invalid amount"
+        ]
+    },
+    {
+        "row": {
+            "transaction_id": "TXN-1014",
+            "date": "2026-10-14",
+            "customer_id": "CUST-012",
+            "category": "",
+            "amount": "74.00",
+            "status": "Pending"
+        },
+        "errors": [
+            "category is empty"
+        ]
+    },
+    {
+        "row": {
+            "transaction_id": "TXN-1016",
+            "date": "2026-10-16",
+            "customer_id": "CUST-014",
+            "category": "Electronics",
+            "amount": "199.99",
+            "status": "Shipped"
+        },
+        "errors": [
+            "Invalid status"
+        ]
+    },
+    {
+        "row": {
+            "transaction_id": "TXN-1017",
+            "date": "2026-10-17",
+            "customer_id": "CUST-015",
+            "category": "Dining",
+            "amount": "28.50",
+            "status": "Failed"
+        },
+        "errors": [
+            "Invalid status"
+        ]
+    },
+    {
+        "row": {
+            "transaction_id": "TXN-1020",
+            "date": "2026-10-20",
+            "customer_id": "CUST-018",
+            "category": "Utilities",
+            "amount": "0.00",
+            "status": "Completed"
+        },
+        "errors": [
+            "Invalid amount"
+        ]
+    },
+    {
+        "row": {
+            "transaction_id": "TXN-1024",
+            "date": "2026-10-24",
+            "customer_id": "CUST-005",
+            "category": "Travel",
+            "amount": "415.75",
+            "status": "Refundes"
+        },
+        "errors": [
+            "Invalid status"
+        ]
+    },
+    {
+        "row": {
+            "transaction_id": "TXN-1024",
+            "date": "2026-10-24",
+            "customer_id": "CUST-005",
+            "category": "Travel",
+            "amount": "415.75",
+            "status": "shit"
+        },
+        "errors": [
+            "Invalid status"
+        ]
+    }
+]

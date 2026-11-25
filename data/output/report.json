@@ -1,0 +1,22 @@
+{
+    "invalid_data": 11,
+    "duplicate_data": 2,
+    "cleaned_data": 14,
+    "total_transaction": 27,
+    "total_revenue": 3549.69,
+    "revenue_by_category": {
+        "groceries": 177.65,
+        "electronics": 1398.99,
+        "dining": 140.15,
+        "travel": 1346.15,
+        "clothing": 244.95,
+        "utilities": 112.3,
+        "elctronics": 129.5
+    },
+    "transactions_per_status": {
+        "completed": 10,
+        "pending": 2,
+        "refunded": 2
+    },
+    "count_unique_customers": 13
+}
