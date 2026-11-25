@@ -1,0 +1,18 @@
+[
+    {
+        "transaction_id": "TXN-1010",
+        "date": "2026-10-10",
+        "customer_id": "CUST-009",
+        "category": "Clothing",
+        "amount": "89.95",
+        "status": "Refunded"
+    },
+    {
+        "transaction_id": "TXN-1024",
+        "date": "2026-10-24",
+        "customer_id": "CUST-005",
+        "category": "Travel",
+        "amount": "415.75",
+        "status": "Refunded"
+    }
+]

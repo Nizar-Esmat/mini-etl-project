@@ -1,0 +1,114 @@
+[
+    {
+        "transaction_id": "TXN-1001",
+        "date": "2026-10-01",
+        "customer_id": "cust-001",
+        "category": "groceries",
+        "amount": 84.5,
+        "status": "completed"
+    },
+    {
+        "transaction_id": "TXN-1002",
+        "date": "2026-10-02",
+        "customer_id": "cust-002",
+        "category": "electronics",
+        "amount": 499.99,
+        "status": "completed"
+    },
+    {
+        "transaction_id": "TXN-1003",
+        "date": "2026-10-03",
+        "customer_id": "cust-003",
+        "category": "dining",
+        "amount": 32.75,
+        "status": "completed"
+    },
+    {
+        "transaction_id": "TXN-1006",
+        "date": "2026-10-06",
+        "customer_id": "cust-006",
+        "category": "travel",
+        "amount": 310.4,
+        "status": "pending"
+    },
+    {
+        "transaction_id": "TXN-1009",
+        "date": "2026-10-09",
+        "customer_id": "cust-008",
+        "category": "dining",
+        "amount": 45.6,
+        "status": "completed"
+    },
+    {
+        "transaction_id": "TXN-1010",
+        "date": "2026-10-10",
+        "customer_id": "cust-009",
+        "category": "clothing",
+        "amount": 89.95,
+        "status": "refunded"
+    },
+    {
+        "transaction_id": "TXN-1012",
+        "date": "2026-10-12",
+        "customer_id": "cust-010",
+        "category": "utilities",
+        "amount": 112.3,
+        "status": "completed"
+    },
+    {
+        "transaction_id": "TXN-1015",
+        "date": "2026-10-15",
+        "customer_id": "cust-013",
+        "category": "travel",
+        "amount": 620.0,
+        "status": "completed"
+    },
+    {
+        "transaction_id": "TXN-1018",
+        "date": "2027-08-20",
+        "customer_id": "cust-016",
+        "category": "clothing",
+        "amount": 155.0,
+        "status": "completed"
+    },
+    {
+        "transaction_id": "TXN-1019",
+        "date": "2026-10-19",
+        "customer_id": "cust-017",
+        "category": "groceries",
+        "amount": 93.15,
+        "status": "completed"
+    },
+    {
+        "transaction_id": "TXN-1021",
+        "date": "2026-10-21",
+        "customer_id": "cust-019",
+        "category": "electronics",
+        "amount": 899.0,
+        "status": "pending"
+    },
+    {
+        "transaction_id": "TXN-1022",
+        "date": "2026-10-22",
+        "customer_id": "cust-002",
+        "category": "dining",
+        "amount": 61.8,
+        "status": "completed"
+    },
+    {
+        "transaction_id": "TXN-1023",
+        "date": "2026-10-23",
+        "customer_id": "cust-020",
+        "category": "elctronics",
+        "amount": 129.5,
+        "status": "completed"
+    },
+    {
+        "transaction_id": "TXN-1024",
+        "date": "2026-10-24",
+        "customer_id": "cust-005",
+        "category": "travel",
+        "amount": 415.75,
+        "status": "refunded"
+    }
+]
